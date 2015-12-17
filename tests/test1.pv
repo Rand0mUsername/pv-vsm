@@ -1,0 +1,25 @@
+a := 3;
+b := 1;
+kK1 := 1;
+inc := 0;
+
+while(a + a * b * (b + b) < 17)
+do
+{
+   	kK1 := kK1 + 1;
+   	a := a + 1;
+   	if( kK1 > 2) then {inc := inc + 1} else {skip}
+};
+	/ random 			komentar/
+a := a * kK1;
+if( (true and false) or (!false) )
+then
+{
+		x := /dva/ 2
+}
+			/now
+			else/
+else
+{
+		x := 3
+}

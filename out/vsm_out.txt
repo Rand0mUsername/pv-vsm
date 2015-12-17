@@ -1,0 +1,10 @@
+Program se zaustavio na instrukciji br. 18.
+-----------------
+Stanje memorije:
+Velicina programa = 18
+Broj promenljivih = 2
+Program counter = 18
+Pokazivac na vrh steka = 0
+b = 1
+a = 2
+-----------------

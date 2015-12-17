@@ -1,0 +1,13 @@
+Program se zaustavio na instrukciji br. 64.
+-----------------
+Stanje memorije:
+Velicina programa = 64
+Broj promenljivih = 5
+Program counter = 64
+Pokazivac na vrh steka = 0
+a = 24
+b = 1
+kK1 = 4
+inc = 2
+x = 2
+-----------------

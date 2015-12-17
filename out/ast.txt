@@ -1,0 +1,1 @@
+StmtBlock (Ass "b" (Aexp1' (Aexp2' (Number 1)))) (SingleStmt (IfElse (Bexp1' (Bexp2' (ParensB (Bexp1' (Bexp2' (Relation (Aexp1' (Aexp2' (Id "b"))) GT (Aexp1' (Aexp2' (Number 3))))))))) (SingleStmt (Ass "a" (Aexp1' (Aexp2' (Number 0))))) (SingleStmt (Ass "a" (Add (Aexp2' (Id "b")) (Aexp1' (Aexp2' (Number 1))))))))
